@@ -52,9 +52,9 @@ to run multiple Virtual Machines (VMs) on a single physical server's CPU. Virtua
 allows applications to be isolated between VMs and provides a level of security as the
 information of one application cannot be freely accessed by another application.
 
-Virtualization allows better utilization of resources in a physical server and allows
-better scalability because an application can be added or updated easily, reduces
-hardware costs, and much more. With virtualization you can present a set of physical
+Virtualization allows better utilization of resources in a physical server. It also allows
+better scalability, because an application can be added or updated easily. Virtualization reduces
+hardware costs and provides many other benefits. With virtualization you can present a set of physical
 resources as a cluster of disposable virtual machines.
 
 Each VM is a full machine running all the components, including its own operating
